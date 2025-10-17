@@ -1,5 +1,6 @@
 // Andy Lim and Ifunanya Okafor
 // Course: CS 4440-03
+// Project 2 - Mother Hubbard Problem
 
 #include <stdio.h>
 #include <stdlib.h>
