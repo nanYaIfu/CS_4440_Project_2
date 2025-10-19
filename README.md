@@ -22,6 +22,6 @@ initializes a buffer and the synchronization variables, then creates and termina
 Other(s)/Notes
 --------------------
 - type_script.sh — Typescript file showing the working of all the programs for correct input as well as graceful exit on error input.
-- makefile - 
+- makefile - Text file for project compilation purposes [using make()]
 - README.md - Glossary of Project 2
 
